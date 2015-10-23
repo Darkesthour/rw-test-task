@@ -1,0 +1,131 @@
+{
+	"orders": [
+		{
+			"name": "Order#1",
+			"id": "order-1",
+			"time_arrival": "22 Октября, Четверг - 18:00",
+			"dishes": [
+				{
+					"name": "Dish#1",
+					"num": "3",
+					"weight": "450",
+					"cost": "56000"
+				}
+			]
+		},
+		{
+			"name": "Order#2",
+			"id": "order-2",
+			"time_arrival": "22 Октября, Четверг - 20:20",
+			"dishes": [
+				{
+					"name": "Dish#1",
+					"num": "1",
+					"weight": "150",
+					"cost": "56000"
+				},
+				{
+					"name": "Dish#3",
+					"num": "1",
+					"weight": "650",
+					"cost": "87000"
+				}
+			]
+		},
+		{
+			"name": "Order#3",
+			"id": "order-3",
+			"time_arrival": "22 Октября, Четверг - 19:30",
+			"dishes": [
+				{
+					"name": "Dish#2",
+					"num": "2",
+					"weight": "240",
+					"cost": "75000"
+				},
+				{
+					"name": "Dish#3",
+					"num": "2",
+					"weight": "650",
+					"cost": "87000"
+				}
+			]
+		},
+		{
+			"name": "Order#4",
+			"id": "order-4",
+			"time_arrival": "23 Октября, Пятница - 15:00",
+			"dishes": [
+				{
+					"name": "Dish#7",
+					"num": "1",
+					"weight": "150",
+					"cost": "45000"
+				},
+				{
+					"name": "Dish#8",
+					"num": "1",
+					"weight": "450",
+					"cost": "145000"
+				}
+			]
+		},
+		{
+			"name": "Order#5",
+			"id": "order-5",
+			"time_arrival": "23 Октября, Пятница - 17:00",
+			"dishes": [
+				{
+					"name": "Dish#7",
+					"num": "1",
+					"weight": "150",
+					"cost": "45000"
+				}
+			]
+		},
+		{
+			"name": "Order#6",
+			"id": "order-6",
+			"time_arrival": "23 Октября, Пятница - 21:00",
+			"dishes": [
+				{
+					"name": "Dish#7",
+					"num": "1",
+					"weight": "150",
+					"cost": "45000"
+				},
+				{
+					"name": "Dish#2",
+					"num": "2",
+					"weight": "240",
+					"cost": "75000"
+				},
+				{
+					"name": "Dish#3",
+					"num": "2",
+					"weight": "650",
+					"cost": "87000"
+				}
+			]
+		},
+		{
+			"name": "Order#7",
+			"id": "order-7",
+			"time_arrival": "24 Октября, Суббота - 20:20",
+			"dishes": [
+				{
+					"name": "Dish#1",
+					"num": "1",
+					"weight": "150",
+					"cost": "56000"
+				},
+				{
+					"name": "Dish#3",
+					"num": "1",
+					"weight": "650",
+					"cost": "87000"
+				}
+			]
+		}
+	]
+}
